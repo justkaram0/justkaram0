@@ -1,12 +1,12 @@
 <div align="center">
-    <a href="https://t.me/karamdev1" target="_blank"><img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-    <a href="https://discord.com/users/1256533825618579456" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-    <a href="mailto:karamdev1@karamdev1.qzz.io" target="_blank"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://karamdev1.qzz.io" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+    <a href="https://t.me/karamdev1"><img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="https://discord.com/users/1256533825618579456"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+    <a href="mailto:karamdev1@karamdev1.qzz.io"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://karamdev1.qzz.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </div>
 <hr border="1" />
 <div align="center">
-    <h1> Karamdev1? </h1>
+    <h1> Karamdev1 </h1>
     <p>Android Kernel Developer | Kali Linux / NetHunter Pentester | Software Developer | Full Stack PHP Web Dev</p>
 </div>
 <hr border="1" />
