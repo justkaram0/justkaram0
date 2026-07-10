@@ -14,4 +14,6 @@
     <img src="https://img.shields.io/badge/IDE-VS_Code-ebdbb2?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=282828" />
     <img src="https://img.shields.io/badge/Cloud-Cloudflare-ebdbb2?style=for-the-badge&logo=cloudflare&logoColor=F38020&labelColor=282828" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=karamdev1&theme=gruvbox&bg_color=282828&hide_border=true&color=fabd2f&line=fe8019&point=ebdbb2" width="100%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karamdev1&theme=gruvbox" width="100%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karamdev1&theme=gruvbox" width="100%" />
 </div>
